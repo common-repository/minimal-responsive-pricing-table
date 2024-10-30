@@ -1,0 +1,118 @@
+
+a.btn-success:hover{
+   box-shadow: 0px 0px 10px rgb(10, 10, 10);
+}
+.panel-pricing {
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+}
+.panel-pricing:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
+.panel-success>.panel-heading{
+        color: #fff;
+    background-color: #E3536C;
+    border-color: #E3536C;
+    border-radius: 0;
+}
+.panel-pricing .list-group-item {
+  color: #777777;
+  border-bottom: 1px solid rgba(250, 250, 250, 0.5);
+  font-size: 14px;
+}
+.panel-pricing .list-group-item:last-child {
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.panel-pricing .list-group-item:first-child {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.panel-pricing .panel-body {
+    background-color: #EB6379;
+    color: #FFFFFF;
+    padding: 50px 0 20px 0;
+}
+.price{
+        position: relative;
+    display: inline-block;
+    margin-bottom: 0.625rem;
+}
+
+.btn-block {
+    border-radius: 0;
+}
+
+h2{
+    padding: 0;
+    margin: 0;
+}
+.panel-success{
+    border-radius: 0;
+    border-color: #E3536C;
+}
+.subtitle {
+    font-style: italic;
+    font-size: 15px;
+}
+.col-sm-4{
+    padding: 30px 30px;
+}
+
+.text-center{
+  text-align: center !important;
+}
+/*.panel-success>.panel-heading h2{
+  
+  color: #fff;
+
+}*/
+.panel-pricing .panel-body p{
+  text-align: center;
+    color: #fff;
+}
+
+
+
+.panel-pricing .panel-body .price sup {
+    font-size: 32px;
+    position: relative;
+    left: 2px;
+    top: -42px;
+}
+.panel-pricing .panel-body .price span {
+    font-size: 71px;
+    letter-spacing: 0px;
+    font-weight: 700;
+}
+.panel-pricing .panel-body .price sub {
+    font-size: 12px;
+    top: 8px;
+    right: 13px;
+}
+/*================================*/
+
+.panel-pricing h2.title {
+    margin-top: 1em !important;
+    bottom: 1em !important;
+    font-size: 32px !important;
+}
+
+.minimal-pricing-table {
+    width: 100% !important;
+        zoom: .8;
+}
+.minimal-pricing-table .col-sm-4 {
+    padding: 30px 4px;
+}
+  span.glyphicon {
+        font-size: 32px;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    }
+    .recommended-plan {
+    float: right;
+    font-size: 77px !important;
+}
